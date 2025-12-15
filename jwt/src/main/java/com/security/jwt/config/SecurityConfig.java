@@ -34,7 +34,7 @@ public class SecurityConfig {
     }
     @Bean
     public org.springframework.security.core.userdetails.UserDetailsService userDetailsService() {
-        return username -> null; // disables default in-memory user
+        return username -> null; 
     }
 
 }
