@@ -1,15 +1,12 @@
 # Problem-Solving 
 
 This repository contains my **daily problem-solving practice** focused mainly on **Java**, **Data Structures & Algorithms (DSA)**, and **core programming concepts**.  
-It serves as a learning log and reference for improving logical thinking, coding efficiency, and problem-solving skills.
 
 ---
 
 ## Purpose of This Repository
 - Practice **DSA and core Java problems**
 - Strengthen **problem-solving and logical thinking**
-- Prepare for **technical interviews**
-- Maintain consistency through **daily coding**
 - Explore both **basic and intermediate Java concepts**
 
 ---
@@ -100,8 +97,6 @@ It serves as a learning log and reference for improving logical thinking, coding
 ##  Learning Focus
 - Writing **clean and understandable code**
 - Solving problems using **multiple approaches**
-- 
----
 
 ---
 
@@ -110,7 +105,4 @@ This repository is continuously evolving as I:
 - Add more DSA problems
 - Refactor older solutions
 - Improve code readability
-
-## 🤝 Contributions
-This is a personal learning repository, but suggestions and improvements are always welcome.
 
