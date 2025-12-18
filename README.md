@@ -78,7 +78,7 @@ It serves as a learning log and reference for improving logical thinking, coding
 
 ---
 
-### 🔹 File Handling & Miscellaneous
+### 🔹 File Handling
 - `FileHandling/`
 - `Main.java`
 - `Solution.java`
@@ -86,7 +86,7 @@ It serves as a learning log and reference for improving logical thinking, coding
 
 ---
 
-### 🔹 Networking (Basic Java)
+### 🔹 Networking Fundamentals
 - `UDPBroadcaster.java`
 - `UDPReceiver.java`
 
@@ -103,14 +103,9 @@ It serves as a learning log and reference for improving logical thinking, coding
 - 
 ---
 
-## 📈 Progress Tracking
-- Problems are added **daily**
-- Difficulty ranges from **basic to intermediate**
-- Some problems include **multiple implementations** for better understanding
-
 ---
 
-## 🚧 Work in Progress
+##  Work in Progress
 This repository is continuously evolving as I:
 - Add more DSA problems
 - Refactor older solutions
